@@ -4,10 +4,10 @@ https://prernatube.herokuapp.com/
 
 
 
-End points-:
+=========End points-:
 
 
- get method
+ ========get method=======
  
  
  get users-:/api/users/auth 
@@ -15,18 +15,21 @@ End points-:
  
  get videos-:/api/video/getVideos
  
- 
- logout-:/api/users/logout
- 
- 
- 
- 
- 
- 
- 
- Post method
 
- getvideos-:/getVideo with json data
+ 
+ 
+=========Post method=========
+======register user-:/api/users/register======
+
+{
+	  "name": "bahu",
+    "email": "bahu123@gmail.com",
+    "password": "123456",
+    "lastname":"bhatra",
+    "role" :1,
+    "image":"hfd"
+}
+======postvideos-:/getVideo with json data=======
  {
 	  "writer": "kjrn",
     "title": "jhfbr",
