@@ -5,7 +5,11 @@ https://prernatube.herokuapp.com/
 
 
 End points-:
+
+
  get method
+ 
+ 
  get users-:/api/users/auth 
  get videos-:/api/video/getVideos
  logout-:/api/users/logout
