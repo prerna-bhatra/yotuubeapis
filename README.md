@@ -29,13 +29,18 @@ End points-:
 {
   
 }
- getvideos-:/getVideo
+ getvideos-:/getVideo with json data
  {
-  "title":"title of video",
-    "description":"desc of video",
-    privacy:0/1,
-    "catogory":"category of video" 
- }
+	  "writer": "kjrn",
+    "title": "jhfbr",
+    "description": "hjfb",
+    "privacy":1,
+    "filePath" :"nkf",
+    "catogory":"vid",
+    "views ": 1,
+    "duration" :"1",
+    "thumbnail":"t" 
+}
  
  
  
