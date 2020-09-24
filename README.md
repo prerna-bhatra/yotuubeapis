@@ -4,7 +4,7 @@ https://prernatube.herokuapp.com/
 
 
 
-=========End points-:
+=========End points============
 
 
  ========get method=======
@@ -29,6 +29,13 @@ https://prernatube.herokuapp.com/
     "role" :1,
     "image":"hfd"
 }
+
+
+
+
+
+
+
 ======postvideos-:/getVideo with json data=======
  {
 	  "writer": "kjrn",
