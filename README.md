@@ -25,10 +25,7 @@ End points-:
  
  
  Post method
- likes or dislikes-:/api/like/getLikes  or /api/like/
-{
-  
-}
+
  getvideos-:/getVideo with json data
  {
 	  "writer": "kjrn",
