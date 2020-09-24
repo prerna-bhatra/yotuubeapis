@@ -36,7 +36,10 @@ https://prernatube.herokuapp.com/
 
 
 
-======postvideos-:/getVideo with json data=======
+======postvideos======
+
+
+api/video/getVideos
  {
 	  "writer": "kjrn",
     "title": "jhfbr",
