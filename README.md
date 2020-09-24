@@ -1,3 +1,6 @@
+to use these api on localhost 
+npm install in server directory
+
 This is an api project made using node js
 File is deployed on heroku
 https://prernatube.herokuapp.com/
