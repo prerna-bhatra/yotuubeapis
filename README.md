@@ -11,7 +11,11 @@ End points-:
  
  
  get users-:/api/users/auth 
+ 
+ 
  get videos-:/api/video/getVideos
+ 
+ 
  logout-:/api/users/logout
  
  
