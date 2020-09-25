@@ -1,3 +1,5 @@
+note-:Its's client side part is in progress
+
 to use these api on localhost 
 npm install in server directory
 
